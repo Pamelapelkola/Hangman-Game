@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Calligraffitti");
+@import url("https://fonts.googleapis.com/css?family=Cantarell");
+
+body{
+    background-color: black;
+
+}
+.jumbotron{
+    margin-top: 0;
+    padding-top: 0;
+}
+.heading{
+    position:absolute;
+    top: 0;
+    left: 420px;
+}
+h1{ color:#76ff03;
+    font-size: 90px;
+    font-family: Cantarell;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;;
+}
+
+.subheading{
+    float: left;
+    height:80px;
+    margin-left:800px;
+}
+h2{
+    font-family:Calligraffitti;
+    font-size: 40px;
+    color: #d500fd;
+}
+
+section{
+    color:white;
+}
+.panel{
+    display:inline-block;
+    overflow: none;
+    width:300px;
+    height:500px;
+    padding-left: 0px;
+    padding-right: 0px; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin:0;
+    border-color: #76ff03;
+    border-style: dashed;
+}
+p{
+    font-size:20px;
+    font-family: cantarell;
+    text-align: center;
+}
+.start{
+    font-size:20px;
+    font-family: cantarell;
+    text-align: center;
+}
